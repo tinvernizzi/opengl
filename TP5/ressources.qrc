@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>simple.frag</file>
+        <file>simple.vert</file>
+        <file>texture.vert</file>
+        <file>texture.frag</file>
+        <file>lumiere.vert</file>
+        <file>lumiere.frag</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>POLYTECH_RVB.jpg</file>
+        <file>back.jpg</file>
+        <file>bottom.jpg</file>
+        <file>front.jpg</file>
+        <file>left.jpg</file>
+        <file>right.jpg</file>
+        <file>texture_de.JPG</file>
+        <file>top.jpg</file>
+    </qresource>
+</RCC>
